@@ -1,0 +1,7 @@
+need to initialize the node js project
+using npm init (node package manager)
+then install express.js as a depency for the project
+using npn install express.
+
+Then look into the package there is main word and after it, there is name of a file
+you need to make a new file and start working on that file.
